@@ -1,4 +1,4 @@
-# YOLO
+# Yolo-CLI
 
 A CLI-based object detection system powered by [YOLOv8](https://docs.ultralytics.com/). Detect objects in real time through your webcam or run inference on static images from the terminal.
 
@@ -17,7 +17,7 @@ A CLI-based object detection system powered by [YOLOv8](https://docs.ultralytics
 
 ```bash
 # Clone the repository
-git clone https://codeberg.org/GautierPicon/Yolo
+git clone https://codeberg.org/GautierPicon/Yolo-CLI
 cd yolo
 
 # Install dependencies with uv

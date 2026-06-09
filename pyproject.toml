@@ -1,5 +1,5 @@
 [project]
-name = "yolo"
+name = "Yolo-CLI"
 version = "0.1.0"
 description = "A CLI-based object detection system for visual data"
 readme = "README.md"
